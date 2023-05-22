@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "react-todo-app",
+			"path": "../.."
+		},
+		{
+			"name": "src",
+			"path": "../../../react_todo-app-with-api/src"
+		}
+	],
+	"settings": {}
+}
